@@ -33,13 +33,31 @@ Application areas: small-area estimation, spatial and spatiotemporal models, mea
 and misclassification, data integration and fusion, hierarchical and multilevel modeling, and
 generalized Bayesian and objective-function approaches.
 
-## Repository contents
+## How we use this repository
+
+**You do not need to know git.** Weekly notes can be added straight from the browser: go to
+`meetings/`, use **Add file → Create new file**, name it `YYYY-MM-DD.md`, write in Markdown, and
+commit. Cloning is only worth it if you are working on code.
 
 | path | what it holds |
 |---|---|
 | `meetings/` | Weekly agendas and notes, named `YYYY-MM-DD.md` |
-| `code/` | Working code, prototypes, and worked examples |
+| `code/` | Prototypes, scratch analyses, worked examples |
 | `docs/` | Shared materials |
+
+**Issues are the running agenda.** Anything you want to work on or ask about between meetings —
+[open an issue](../../issues). Assign it to whoever is looking at it. This is more reliable than
+remembering what was agreed last week.
+
+**Code graduates.** Prototypes live here. When something becomes a method implementation, a
+package, or a paper's reproduction materials, it moves to its own **public** repository in the
+[lens-program](https://github.com/lens-program) organization and gets linked from the
+[LENS front page](https://github.com/lens-program/lens-program). Nothing that is ready to share
+should stay buried in a private working repo.
+
+**Open-ended discussion belongs upstairs.** Questions worth putting to the wider cross-institutional
+group go in [LENS Discussions](https://github.com/lens-program/lens-program/discussions) rather
+than here, so people outside Emory can see and answer them.
 
 ## Working here
 
