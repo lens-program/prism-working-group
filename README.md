@@ -5,13 +5,13 @@
 The Emory-based working group of the [LENS Program](https://github.com/lens-program/lens-program)
 — *Learning, Estimation, and Nonidentifiability in Statistics*.
 
-<img src="docs/prism_logo.png" width="200" align="right" alt="PRISM Working Group logo">
-
 ## What this group is
 
 PRISM is the hands-on half of LENS. Where the **LENS Monthly Group** is a cross-institutional
 forum for short talks and works-in-progress, PRISM is a weekly working group of students,
 postdocs, and faculty at Emory that does the technical work in depth:
+
+<img src="docs/prism_logo.png" width="200" align="right" alt="PRISM Working Group logo">
 
 - Deep dives into technical problems
 - Method development and analysis
