@@ -18,14 +18,13 @@ from the README.
 
 ## Data — read this before committing anything
 
-**Private is not the same as permitted.** Members work with Tribal, clinical, and restricted
-surveillance data under data-use agreements, and those agreements govern what may be copied,
-where it may be stored, and who may see it. A private GitHub repository does not satisfy them.
+**Private is not the same as permitted.** Members may work with data governed by data-use
+agreements, ethics approvals, or other restrictions, and those govern what may be copied, where
+it may be stored, and who may see it. A private GitHub repository does not satisfy them.
 
 - Do not commit data you do not have the right to share, even here.
-- Prefer synthetic data that reproduces the analysis structure. This is the approach taken in
-  [BEACON](https://github.com/Enpeterson/BEACON), where original data cannot be shared under
-  Tribal data governance.
+- Prefer synthetic data that reproduces the analysis structure, so an analysis can be shared
+  and checked without the original data.
 - If in doubt, ask before committing. Removing data from git history is far harder than not
   adding it.
 

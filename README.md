@@ -69,8 +69,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Two things worth knowing up front:
 analyses in progress belong here. Work that is ready to share moves to a public repository in
 the [lens-program](https://github.com/lens-program) organization.
 
-**Be careful with data.** Members work with Tribal, clinical, and restricted surveillance data
-governed by data-use agreements. Private is not the same as permitted: do not commit data you do
+**Be careful with data.** Members may work with data governed by data-use agreements, ethics
+approvals, or other restrictions. Private is not the same as permitted: do not commit data you do
 not have the right to share, even here.
 
 ## Contact
