@@ -1,9 +1,11 @@
 # PRISM Working Group
 
+**Practical Identifiability, Recoverability, and Learning in Statistical Models**
+
 The Emory-based working group of the [LENS Program](https://github.com/lens-program/lens-program)
 — *Learning, Estimation, and Nonidentifiability in Statistics*.
 
-<img src="docs/lens_logo.png" width="160" align="right" alt="LENS Program logo">
+<img src="docs/prism_logo.png" width="200" align="right" alt="PRISM Working Group logo">
 
 ## What this group is
 
