@@ -1,0 +1,6 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+*.nb.html
+__pycache__/
