@@ -9,6 +9,11 @@ The Emory-based working group of the [LENS Program](https://github.com/lens-prog
 
 **PRISM Working Group — Tuesday, October 13, 2026, 2:00–3:00 pm Eastern**
 
+**Location:** GCR 311
+
+PRISM meets every Tuesday, 2:00–3:00 pm Eastern, in GCR 311 — except the first Tuesday of the
+month, when we join the larger LENS Monthly Group instead.
+
 ## What this group is
 
 PRISM is the hands-on half of LENS. Where the **LENS Monthly Group** is a cross-institutional
