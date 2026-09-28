@@ -5,6 +5,10 @@
 The Emory-based working group of the [LENS Program](https://github.com/lens-program/lens-program)
 — *Learning, Estimation, and Nonidentifiability in Statistics*.
 
+## Next meeting
+
+**PRISM Working Group — Tuesday, October 13, 2026, 2:00–3:00 pm Eastern**
+
 ## What this group is
 
 PRISM is the hands-on half of LENS. Where the **LENS Monthly Group** is a cross-institutional
