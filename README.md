@@ -7,7 +7,7 @@ The Emory-based working group of the [LENS Program](https://github.com/lens-prog
 
 ## Next meeting
 
-**PRISM Working Group — Tuesday, October 13, 2026, 2:00–3:00 pm Eastern**
+**PRISM Working Group — Tuesday, October 27, 2026, 2:00–3:00 pm Eastern**
 
 **Location:** GCR 311
 
